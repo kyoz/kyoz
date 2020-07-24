@@ -8,7 +8,7 @@
 
         .background {
           background-color: #fff;
-          background-image: url('https://raw.githubusercontent.com/kyoz/kyoz/master/images/background.jpg');
+          background-image: url('https://i.imgur.com/BuePiTB.jpg');
           width: 100%;
           background-position: bottom;
           background-repeat: no-repeat;
@@ -112,7 +112,7 @@
           <div className="particle-wrapper"><div className="particle"></div></div>
         </div>
 
-        <img className="lazy" alt="Me" src="https://raw.githubusercontent.com/kyoz/kyoz/master/images/kyoz.gif"
+        <img className="lazy" alt="Me" src="https://i.imgur.com/lsK97CF.gif"
              style="height: 52%; position: absolute; bottom: 12%; left: calc(50% - 76px)" />
         <div class="rain fill"></div>
 			</div>
