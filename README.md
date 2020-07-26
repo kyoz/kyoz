@@ -1,5 +1,6 @@
 <div align="center">
-<img src="./banner.svg" width="800" height="400">
+  <img src="./images/cultivating.png.svg" width="800" height="400">
+  <p>A day without self improvement is a wasted day</p>
 </div>
 
 <!--
