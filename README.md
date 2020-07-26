@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="./images/cultivating.png.svg" width="800" height="400">
-  <p>A day without self improvement is a wasted day</p>
+  <img src="./images/cultivating.png" width="800" height="400">
+  <p style="font-size: 1.3em; margin-bottom: 24px; color: #FC1411">
+    A day without self improvement is a wasted day
+  </p>
 </div>
 
 <!--
