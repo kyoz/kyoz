@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./images/cultivating.png" width="800" height="400">
+  <img src="https://github.com/kyoz/kyoz/blob/master/images/cultivating.png?raw=true" width="800" height="400">
   <p style="font-size: 1.3em; margin-bottom: 24px; color: #FC1411">
     A day without self improvement is a wasted day
   </p>
